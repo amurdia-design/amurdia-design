@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Asha Murdia
 
-<!--
-**amurdia-design/amurdia-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate student at **Arizona State University** studying **User Experience Design**. I also have a background in **interior design, visual communication, and client experience**.
 
-Here are some ideas to get you started:
+I am currently learning **HTML, CSS, Git, and GitHub** as part of my web coding coursework. Long term, I hope to work in **UX design** and create thoughtful, accessible digital experiences in human-centered spaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+- HTML5
+- CSS3
+- Git and GitHub
+- Accessibility best practices
+- Semantic markup
+- SEO fundamentals
+
+## Tools & Skills
+- Figma
+- Adobe Creative Suite
+- AutoCAD
+- HTML
+- CSS
+- GitHub
+
+## Interests
+- UX design
+- Interior design
+- Accessibility
+- Visual storytelling
+- Learning how design and code work together
+
+## Connect with me
+- [GitHub Profile](https://github.com/amurdia-design)
+- [LinkedIn](www.linkedin.com/in/asha-murdia/)
+
+
