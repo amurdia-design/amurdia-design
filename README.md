@@ -1,7 +1,7 @@
 <p align="left">
   <img src="monogram.png" alt="A monogram" width="170">
 
-## 💬 Hi, I'm Asha❕ 
+## 💬 Hi, I'm Asha 
 
   I am a graduate student at 🔱**Arizona State University** studying **User Experience Design**, 
   with a background in **interior design, visual communication, and customer experience**.
