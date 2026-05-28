@@ -1,5 +1,4 @@
-<p align="left">
-  <img src="A.png" alt="A monogram" width="170">
+
 
 ## Hi, I'm Asha Murdia
 
